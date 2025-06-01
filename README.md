@@ -1,4 +1,5 @@
 # curriculoHTML
+```html
 <!DOCTYPE html>
 <html lang="en">
 
@@ -49,6 +50,7 @@
 </head>
 
 <body>
+    
     <img src="./assets/shadow ultimate marvel.png" alt="Foto do curriculo">
 
     <h1>Henrique Michel Rodrigues</h1>
@@ -86,3 +88,4 @@
 </body>
 
 </html>
+```
