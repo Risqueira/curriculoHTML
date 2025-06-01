@@ -82,7 +82,7 @@
     <p>Comunicação, Trabalho em equipe, não fumante,</p>
 
     <h5>Hobby</h5>
-    <p>Jogar jogos eletronicos, jogar voley, ler livros e webnovels, gosto de beber</p>
+    <p>Jogar jogos eletronicos, jogar volei, ler livros e webnovels, gosto de beber</p>
 
 
 </body>
